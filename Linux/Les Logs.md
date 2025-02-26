@@ -33,7 +33,7 @@ pour afficher les accès au serveur Apache.
 ``cat /var/log/apache2/access.log``  
 
 * ### Une requête réussie (code 200)
-![Capture d'écran 2024-12-16 113246](https://github.com/user-attachments/assets/dcd482e5-9371-4adf-8b5a-01bc2d50afec)  
+ ![Capture d'écran 2024-12-16 113246](https://github.com/user-attachments/assets/f320db61-d341-4024-be44-848470dc76c0)  
 La machine locale (`127.0.0.1`) a effectué une requête qui a abouti (code 200). :white_check_mark:   
 
 * ### Une erreur 404 (page non trouvée)  
