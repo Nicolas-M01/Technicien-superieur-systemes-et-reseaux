@@ -51,11 +51,13 @@ en droit admin je lance "rsync", "-av" : "v" pour verbose pour avoir les infos, 
 ![Capture d'écran 2025-01-13 163020](https://github.com/user-attachments/assets/3e301b0c-2245-4034-9197-17e1c24ac07d)  
 
 Puis côté serveur  
-![Capture d'écran 2025-01-13 163323](https://github.com/user-attachments/assets/802e8df4-38d5-496f-b70c-17a6417bed47)
+![Capture d'écran 2025-01-13 163323](https://github.com/user-attachments/assets/e618a4e5-6aca-45f1-a090-4bbb96a9e2fe)  
+
 
 
 Sur Serveur, supprimer fichier "Skyrim".  
 Relancer une synchro sur le client :  
-![Capture d'écran 2025-01-13 162811](https://github.com/user-attachments/assets/77134041-da1b-436a-9bdf-09fa6fe00a51)  
+![Capture d'écran 2025-01-13 162811](https://github.com/user-attachments/assets/6fdaebe7-c5dc-484b-8026-48da68379595)
+
 
 ### Ca fonctionne !  
