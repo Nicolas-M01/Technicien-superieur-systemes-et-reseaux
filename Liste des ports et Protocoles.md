@@ -2,6 +2,8 @@
 
 |Numéro de port|Protocole|Description|TCP|UDP|
 |:--:|:--:|:--:|:--:|:--:|
+|20-21|FTP|File Transfer Protocol|X||
+|22|SFTP|SSH File Transfer Protoco|X||
 |22|SSH|Secure Shell niveau 7|X|X|
 |25|SMTP|Simple Mail Transfer Protocol|X||
 |53|DNS|Domain Name System||X|
