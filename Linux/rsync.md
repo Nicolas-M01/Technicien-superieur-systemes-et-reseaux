@@ -41,7 +41,8 @@ Une fois les machines sur le même réseau et pour Debian : `systemctl restat ne
 ## Synchronisation avec Rsync  
 Créer des dossiers, fichiers, etc... sur le client  
 Dans mon cas dans "Documents", j'ai créé les fichiers : "Skyrim", "Solitude" et "Vivec"  
-![Capture d'écran 2025-01-13 163246](https://github.com/user-attachments/assets/95ed13a2-0115-43eb-9c2e-a759b9b5b8a5)  
+![Capture d'écran 2025-01-13 163246](https://github.com/user-attachments/assets/d3c38170-f1dd-4d80-a648-00792e68704f)  
+
 
 
 Envoyer depusi le client :  
