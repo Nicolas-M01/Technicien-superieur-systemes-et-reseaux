@@ -48,7 +48,8 @@ Dans mon cas dans "Documents", j'ai créé les fichiers : "Skyrim", "Solitude" e
 Envoyer depusi le client :  
 **``sudo rsync -av Documents/ root@192.168.1.250:/root/ > /home/velarion/rsync``**  
 en droit admin je lance "rsync", "-av" : "v" pour verbose pour avoir les infos, et "a" pour copier avec récursivité. Je copie le dossier "Documents/" et ce qu'il contient vers "root@192.168.1.250" (machine serveur) dans son dossier "/root/", et j'envoie les infos dans un ficher "rsync" dans "/home/velarion".  
-![Capture d'écran 2025-01-13 163020](https://github.com/user-attachments/assets/d4ae5b7d-b210-4888-9007-d5b4da9f08aa)
+![Capture d'écran 2025-01-13 163020](https://github.com/user-attachments/assets/3e301b0c-2245-4034-9197-17e1c24ac07d)  
+
 Puis côté serveur  
 ![Capture d'écran 2025-01-13 163323](https://github.com/user-attachments/assets/802e8df4-38d5-496f-b70c-17a6417bed47)
 
