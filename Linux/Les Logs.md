@@ -37,14 +37,15 @@ pour afficher les accès au serveur Apache.
 La machine locale (`127.0.0.1`) a effectué une requête qui a abouti (code 200). :white_check_mark:   
 
 * ### Une erreur 404 (page non trouvée)  
-![Capture d'écran 2024-12-16 113338](https://github.com/user-attachments/assets/0992da5b-4bd7-4638-b472-f88b38a2e5eb)  
+![Capture d'écran 2024-12-16 113338](https://github.com/user-attachments/assets/9684915a-e52d-4c3e-8c2b-341d5a85ba01)  
 La machine locale (`127.0.0.1`) a effectué une requête qui n'a pas abouti (code 404), car la page "blabla" n'existe pas. :white_check_mark:  
 
 * ### Les IP les plus fréquentes  
 Dans mon cas il n'y a quasiment pas de traffic.  
-![Capture d'écran 2024-12-16 114144](https://github.com/user-attachments/assets/958389da-b0af-42bd-b98a-78be43a8979e)  
+![Capture d'écran 2024-12-16 114144](https://github.com/user-attachments/assets/7e4fe304-5ea3-4241-a3a4-ced03e444d11)  
+
 l'unique adresse est l'adresse locale. Dans le cas d'un nombre élevé on peut utiliser des commandes bash pour trier/filtrer  :  
 ``awk '{print $1}' /var/log/apache2/access.log | sort | uniq -c | sort -nr | head``  
 (la première avec "awk" permet de ne garder que la première colonne, ensuite on a le chemin du fichier, puis on trie avec "sort", puis "uniq -c" va compter le nombre de lignes de chaque adresse IP, puis "sort -nr" va trier par fréquence (décroissant), puis "head" pour afficher les 10 premières.  
-![Capture d'écran 2024-12-16 115229](https://github.com/user-attachments/assets/45192e89-5a90-45da-9e9a-dc925f638625)  
+ ![Capture d'écran 2024-12-16 115229](https://github.com/user-attachments/assets/a41706c6-f25e-4226-a988-faba7a57ee3f)  
 :white_check_mark:  
