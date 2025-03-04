@@ -18,6 +18,7 @@
 |445|SMB|Server message block|X||
 |465|SMTPS|SMTP via SSL/TLS|||
 |500|ISAKMP|Internet Security Association and Key Management Protocol||X|
+|587|SMTP|SMTP Sécurisé (port utilisé au détriment de 465|X||
 |636|LDAPS|LDAP via SSL/TLS|X|X|
 |993|IMAPS|IMAP via SSL/TLS|X||
 |995|POP3S|POP3 via SSL/TLS|X||
@@ -27,5 +28,5 @@
 ||RTP|Real-Time Transport Protocol||X|
 
 
-
+ISAKMP : gère les clés de chiffrement pour le VPN IPSEC
 
