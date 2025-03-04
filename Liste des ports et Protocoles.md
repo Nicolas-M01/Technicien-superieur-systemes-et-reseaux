@@ -8,6 +8,7 @@
 |25|SMTP|Simple Mail Transfer Protocol|X||
 |53|DNS|Domain Name System|X|X|
 |67(srv)/68(cli)|DHCP|Dynamic Host configuration Protocol||X|
+|69|TFTP|Trivial File Transfer Protocol||X|
 |80|http|Hypertext Transfer Protocol lvl7|X||
 |110|POP3|Post Office Protocol v3|X||
 |123|NTP|Network Time Protocol||X|
