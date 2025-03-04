@@ -4,9 +4,9 @@
 |:--:|:--:|:--:|:--:|:--:|
 |20-21|FTP|File Transfer Protocol|X||
 |22|SFTP|SSH File Transfer Protoco|X||
-|22|SSH|Secure Shell niveau 7|X|X|
+|22|SSH|Secure Shell niveau 7|X||
 |25|SMTP|Simple Mail Transfer Protocol|X||
-|53|DNS|Domain Name System||X|
+|53|DNS|Domain Name System|X|X|
 |67(srv)/68(cli)|DHCP|Dynamic Host configuration Protocol||X|
 |80|http|Hypertext Transfer Protocol lvl7|X||
 |110|POP3|Post Office Protocol v3|X||
