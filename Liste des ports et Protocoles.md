@@ -17,6 +17,7 @@
 |443|HTTPS|HTTP via SSL/TLS|X||
 |445|SMB|Server message block|X||
 |465|SMTPS|SMTP via SSL/TLS|||
+|500|ISAKMAP|Internet Security Association and Key Management Protocol||X|
 |636|LDAPS|LDAP via SSL/TLS|X|X|
 |993|IMAPS|IMAP via SSL/TLS|X||
 |995|POP3S|POP3 via SSL/TLS|X||
