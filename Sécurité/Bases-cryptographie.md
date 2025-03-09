@@ -41,5 +41,8 @@ Une bonne fonction de hashage ne doit pas générer de collision.
 * **SHA-3**  
 * **SHA-512**  
 
-### Vérifier Hash en lignes de commande sous Windows  
+### Vérifier Hash en lignes de commandes sous Windows  
 **``certutil -hashfile logiciel.exe sha512``** : Cette commande avec ce paramètre suivi du nom du logiciel, puis l'algorythme de hashage va nous donner le hash du logiciel. Il suffira de comparer avec le hash fourni par l'éditeur sur le site officiel pour vérifier l'intégrité de ce qui a été téléchargé.  
+
+### Vérifier Hash en lignes de commandes sous Linux  
+**``sha512sum fichier1``** : Permet de calculer le hash sha-512 d'un fichier sous Linux.  
