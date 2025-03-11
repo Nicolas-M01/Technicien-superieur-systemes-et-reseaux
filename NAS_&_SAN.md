@@ -3,9 +3,14 @@
 
 ## SAN : Storage Attached Network  
 
-Réseau spécifiquement dédié à l'interconnexion de ressources de stockage en mode bloc avec des serveurs, à haute vitesse. Stockage indépendant des applications. 
+Réseau spécifiquement dédié à l'interconnexion de ressources de stockage en mode bloc avec des serveurs, à haute vitesse. Stockage indépendant des applications.  
 Permet une débit élevé et une latence faible. Couramment utilisé en entreprise pour les applications critiques. Les données sont stockées dans des unités logiques appelées LUN (Logic Unique Numbers).  
 Les SAN permettent une haute disponibilité.  
+**En bref :**  
+Stockage accessible via un réseau local (LAN) sous forme de fichiers.  
+Utilise des protocoles comme NFS, SMB/CIFS.  
+Facile à configurer et adapté au partage de fichiers.  
+NAS = Stockage en mode fichier, simple et abordable.  
 
 ---
 
