@@ -33,6 +33,8 @@ ISAKMP : gère les clés de chiffrement pour le VPN IPSEC
 
 
 ## Processus de négociation TLS/SSL  
+Invisible pour l’utilisateur, un processus appelé « négociation TLS/SSL » (TLS/SSL handshake) crée une connexion protégée entre votre serveur et votre navigateur de façon quasi instantanée à chaque fois que vous visitez un site web. Un site web sécurisé par un certificat TLS/SSL affiche le préfixe « https » et une icône en forme de cadenas dans la barre d’adresse du navigateur. Les certificats TLS/SSL ont un double emploi : protéger les données utilisateurs en transit et authentifier l’entité derrière le domaine pour garantir aux internautes qu’ils interagissent bien avec le propriétaire légitime du site web visité.  
+
 ### Étape 1  
 Chaque certificat TLS consiste en une paire de clés constituée d’une clé publique d’une part et d’une clé privée d’autre part. Ces clés sont importantes, car elles interagissent en coulisses lors des transactions sur le site web.
 
