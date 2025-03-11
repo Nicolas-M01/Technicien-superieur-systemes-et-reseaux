@@ -11,6 +11,11 @@ Les SAN permettent une haute disponibilité.
 
 ## NAS : Network Attached Storage  
 
-Adapté aux petites entreprises et moins cher que les SAN, ils ont leur propre OS et peuvent être sur le réseau local. Basés sur un système de fichiers ils sont plus faciles à gérer et plus évolutifs.
+Adapté aux petites entreprises et moins cher que les SAN, ils ont leur propre OS et peuvent être sur le réseau local. Basés sur un système de fichiers ils sont plus faciles à gérer et plus évolutifs.  
+**En bref :**  
+Stockage accessible via un réseau local (LAN) sous forme de fichiers.  
+Utilise des protocoles comme NFS, SMB/CIFS.  
+Facile à configurer et adapté au partage de fichiers.  
+NAS = Stockage en mode fichier, simple et abordable.  
 
 ---
