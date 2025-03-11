@@ -7,10 +7,10 @@ Réseau spécifiquement dédié à l'interconnexion de ressources de stockage en
 Permet une débit élevé et une latence faible. Couramment utilisé en entreprise pour les applications critiques. Les données sont stockées dans des unités logiques appelées LUN (Logic Unique Numbers).  
 Les SAN permettent une haute disponibilité.  
 **En bref :**  
-Stockage dédié accessible via un réseau haute performance sous forme de blocs.
-Utilise des protocoles comme Fibre Channel (FC), iSCSI.
-Conçu pour des bases de données, machines virtuelles et applications critiques.
-SAN = Stockage en mode bloc, performant et évolutif.
+Stockage dédié accessible via un réseau haute performance sous forme de blocs.  
+Utilise des protocoles comme Fibre Channel (FC), iSCSI.  
+Conçu pour des bases de données, machines virtuelles et applications critiques.  
+SAN = Stockage en mode bloc, performant et évolutif.  
 
 ---
 
