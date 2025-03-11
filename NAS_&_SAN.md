@@ -10,7 +10,7 @@ Les SAN permettent une haute disponibilité.
 Stockage accessible via un réseau local (LAN) sous forme de fichiers.  
 Utilise des protocoles comme NFS, SMB/CIFS.  
 Facile à configurer et adapté au partage de fichiers.  
-NAS = Stockage en mode fichier, simple et abordable.  
+SAN = Stockage en mode bloc, performant et évolutif.  
 
 ---
 
