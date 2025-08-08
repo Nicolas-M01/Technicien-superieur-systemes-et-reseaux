@@ -12,6 +12,7 @@
 |80|http|Hypertext Transfer Protocol lvl7|X||
 |110|POP3|Post Office Protocol v3|X||
 |123|NTP|Network Time Protocol||X|
+|139|Netbios|Netbios|X||
 |143|IMAP|Internet Message Access Protocol|X||
 |161/162|SNMP|Simple Network Management Protocol||X|
 |389|LDAP|Lightweight Directory Access Protocol|X||
